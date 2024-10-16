@@ -1,6 +1,5 @@
-qwddsfasdfasfsafwq
-hello
-sdfsfs
-sdfsfsdfsdsdf
-sdfsdsdfds:wq
-:
+<<<<<<<HEAD
+main_hello
+=======
+qwqwq -> Hello
+>>>>>>>mylocal
